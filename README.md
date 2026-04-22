@@ -1,19 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/IDEzcQ6G)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23431416)
-# :checkered_flag: Asa Branca Indie Game Dev 
+# :checkered_flag: NOME DO PROJETO
 
-O projeto visa a realização de um site direcionado a startup Asa Branca Indie Game Dev, uma organizaçãp que fomenta a cultura nordestina e a educação através de jogos na UFC-Campus Quixadá.
+Breve descrição do que o seu projeto faz.
 
 ## :technologist: Membros da equipe
 
-Maria Luiza Albuquerque Quinto - 555490 - Redes de Computadores
-Marcos Paulo de Sousa dos Santos - 555936 - Redes de Computadores
+Matrícula, nome e curso dos participantes.
 
 ## :bulb: Objetivo Geral
-O projeto tem como objetivo promover os jogos educativos e socioculturais, informar atividades sociais, noticiar conquistas acadêmicas e publicações de projetos da Asa Branca através de um site.
+Descrever o objetivo de geral do projeto
 
 ## :eyes: Público-Alvo
-Adolescentes e adultos de 15 a 30 anos do estado do Ceará.
+Público-alvo do projeto
 
 ## :star2: Impacto Esperado
 Descreva o impacto esperado do projeto em relação ao público alvo
